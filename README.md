@@ -1,2 +1,2 @@
 # ATom
-Software package for atmospheric tomography processing
+Matlab software package for atmospheric tomography processing
