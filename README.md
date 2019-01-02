@@ -14,4 +14,4 @@ ATom GNSS is a MATLAB GUI based software package, which has been developed withi
 
 Therefore, common formats like Napeos, Bernese, IGS SINEX Tropo or the ‘new’ SINEX Tropo format, navigation messages for GPS and GLONASS as well as several formats for post-fit residuals and in-situ measurements are supported.
 
-For more details see the ATom_Manual_2018-08-03.pdf
+For more details see the manual ATom_Manual_2018-08-03.pdf
