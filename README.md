@@ -3,7 +3,7 @@ Matlab software package for atmospheric tomography processing
 
 Author: Gregor Moeller (gregor.moeller@tuwien.ac.at)
 
-ATom GNSS is a MATLAB GUI based software package, which has been developed within the GNSS-ATom project (840098) - financed by the Austrian Research Promotion Agency (FFG) in the years 2013 to 2015.
+ATom is a MATLAB GUI based software package, which has been developed within the GNSS-ATom project (840098) - financed by the Austrian Research Promotion Agency (FFG) in the years 2013 to 2015.
 
 ‘ATom’ stands for Atmospheric Tomography, the core part of the ATom software package. In addition, ATom allows for conversion of:
   •	broadcast ephemerides into ECEF satellite positions, elevation or azimuth angles
