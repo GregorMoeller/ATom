@@ -9,6 +9,12 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
+# References
+G. Moeller, Reconstruction of 3D wet refractivity fields in the lower atmosphere along bended GNSS signal paths, Dissertation, Department of Geodesy and Geoinformation, TU Wien, 2017, https://repositum.tuwien.ac.at/obvutwoa/content/titleinfo/2284850
+
+G. Moeller and D. Landskron, Atmospheric bending effects in GNSS tomography, Atmos. Meas. Tech, 12, 23-24, doi: 10.5194/amt-12-23-2019, https://www.atmos-meas-tech.net/12/23/2019/
+
+
 # About ATom
 
 ATom is a MATLAB GUI based software package, which has been developed within the GNSS-ATom project (840098) - financed by the Austrian Research Promotion Agency (FFG) in the years 2013 to 2015.
